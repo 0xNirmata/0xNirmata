@@ -5,15 +5,14 @@
 ---
 
 # 🚀 Skills & Tools
-C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
+C | C++ | Python | Shell | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
 
 ---
 
 ## 🌱 Currently Learning
-- Data modeling and DAX in Power BI 📊
-- Visual storytelling con dashboards 
 - Linux system administration
 - Advanced C
+- Python
 
 ---
 
@@ -77,4 +76,4 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 
 ---
 
-⭐️ *From Rosse*
+⭐️ *From 0xEr3b0s*
