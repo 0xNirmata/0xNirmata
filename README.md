@@ -33,9 +33,9 @@ A function that reads a line from a file descriptor. I learned about dynamic mem
 Language: Shell / Virtualization  
 A system administration project where I configured a virtual machine, managed users, and implemented security policies — my first deep dive into Linux systems.
 
-🔹 **Pipex**  
+🔹 **Minitalk**  
 Language: C  
-A program that replicates the behavior of shell pipes (`|`). I learned about process creation, I/O redirection, and inter-process communication using pipes.
+Minitalk is a small IPC project where you build a client and server that communicate using Unix signals to transmit strings.
 
 🔹 **Push_swap**  
 Language: C  
