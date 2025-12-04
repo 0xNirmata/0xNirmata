@@ -49,7 +49,7 @@ Based on the "Dining Philosophers" problem. I dealt with threads, mutexes, and c
 Language: C  
 A miniature shell inspired by Bash. It handles command parsing, process management, and built-in commands like `cd`, `echo`, and `export`.  
 
-🔹 ft_irc
+🔹 **ft_irc**
 Language: C++
 An IRC server implementation following the RFC specifications. It manages client connections, channels, message routing, and supports essential IRC commands like JOIN, PART, PRIVMSG, and NICK.
 
