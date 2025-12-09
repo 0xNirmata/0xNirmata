@@ -56,7 +56,7 @@ An IRC server implementation following the RFC specifications. It manages client
 ---
 
 ## 💡 Leetcode Projects
-Currently doing some algorithm projects on leetcode to train ( in java ) 
+Currently doing some algorithm projects on leetcode to train ( in java ).
 
 <h3> 🧰 Things I code with</h3>
 <p>
