@@ -53,6 +53,10 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 Language: C++  
 An IRC server implementation following the RFC specifications. It manages client connections, channels, message routing, and supports essential IRC commands like JOIN, PART, PRIVMSG, and NICK. 
 
+🔹 **Exams**  
+Language: C/C++
+All exams from 42 school which are in C and C++.
+
 ---
 
 ## 💡 Leetcode Projects
