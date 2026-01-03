@@ -17,33 +17,10 @@ C | C++ | Python | Shell | HTML | CSS | JavaScript | Git | GitHub | Linux | VS C
 ---
 
 ## 💡 42 School Projects
-🔹 **Libft**  
-Language: C  
-A custom library that re-implements standard C functions like `strlen`, `calloc`, and `strlcpy`. Helped me understand memory management and the fundamentals of C.
-
-🔹 **ft_printf**  
-Language: C  
-My own version of the `printf` function. It was a great challenge to handle format specifiers, flags, and precision while maintaining flexibility.
 
 🔹 **get_next_line**  
 Language: C  
 A function that reads a line from a file descriptor. I learned about dynamic memory allocation and buffer management for efficient reading.
-
-🔹 **Born2beroot**  
-Language: Shell / Virtualization  
-A system administration project where I configured a virtual machine, managed users, and implemented security policies — my first deep dive into Linux systems.
-
-🔹 **Minitalk**  
-Language: C  
-Minitalk is a small IPC project where you build a client and server that communicate using Unix signals to transmit strings.
-
-🔹 **Push_swap**  
-Language: C  
-An algorithmic project that sorts a stack of integers using the fewest moves possible. It strengthened my understanding of sorting and optimization algorithms.
-
-🔹 **Philosophers**  
-Language: C  
-Based on the "Dining Philosophers" problem. I dealt with threads, mutexes, and concurrency challenges — my introduction to synchronization and multithreading.
 
 🔹 **Minishell**  
 Language: C  
