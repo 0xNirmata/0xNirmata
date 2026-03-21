@@ -1,8 +1,6 @@
 # 👋 Hey, I'm 0xEr3b0s
 
-**Systems Engineer | Compiler Enthusiast | 42 School Student**
-
-⛩️ Building tools that make computers speak 💻
+**Systems Engineer | Compiler Enthusiast | Machine learning and IA Debutant | 42 School Student**
 
 ---
 
@@ -10,7 +8,7 @@
 
 I'm a passionate developer with a deep interest in **low-level systems programming** and **compiler design**. Currently studying at **42**, a peer-to-peer coding school that challenges you to build real things and learn by doing.
 
-- 🔧 Specializing in **systems programming** (C/C++) and **compiler construction**
+- 🔧 Specializing in **systems programming** (C/C++)
 - 🚀 Building a **C compiler from scratch** using *Writing a C Compiler* as my guide
 - 🐍 Expanding into **Python** and **algorithms** (LeetCode grinding)
 - 🎓 **42 School** student passionate about computer science fundamentals
@@ -104,28 +102,9 @@ A high-performance line reader for file descriptors. Mastered dynamic memory all
 
 ## 💬 Let's Connect
 
-- 💼 **LinkedIn:** [Add your profile]
-- ✉️ **Email:** [Add your email]
+- 💼 **LinkedIn:**
+- ✉️ **Email:**
 - 🎓 **School:** 42 Paris
-- 🌐 **Portfolio:** [Optional - add if you have one]
-
----
-
-## 🎯 Open To
-
-- 🤝 Collaborating on **systems programming** projects
-- 🔗 Contributing to **compiler** or **OS** projects
-- 💡 Technical discussions about **low-level programming**
-- 📖 Mentoring or learning together
-
----
-
-## ⭐ Fun Facts
-
-- ⛩️ Lover of elegant, minimalist code
-- 🖥️ Works across macOS and Windows (Fish shell advocate!)
-- 🔄 Currently juggling 42 projects + personal compiler work + Python bootcamp
-- 🎯 Goal: Master systems programming & build something impactful
 
 ---
 
