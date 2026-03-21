@@ -1,6 +1,8 @@
 # 👋 Hey, I'm 0xEr3b0s
 
-**Systems Engineer | Compiler Enthusiast | Machine learning and IA Debutant | 42 School Student**
+**Systems Engineer | Compiler Enthusiast | Machine Learning & IA Debutant | 42 School Student**
+
+⛩️ Building tools that make computers speak 💻
 
 ---
 
@@ -11,6 +13,7 @@ I'm a passionate developer with a deep interest in **low-level systems programmi
 - 🔧 Specializing in **systems programming** (C/C++)
 - 🚀 Building a **C compiler from scratch** using *Writing a C Compiler* as my guide
 - 🐍 Expanding into **Python** and **algorithms** (LeetCode grinding)
+- 🤖 Exploring **Machine Learning & AI** fundamentals
 - 🎓 **42 School** student passionate about computer science fundamentals
 - 🌍 Based in **France** | Open to **remote collaborations**
 
@@ -72,15 +75,16 @@ A miniature Unix shell implementing core bash functionality. Deep dive into proc
 
 ---
 
-### 📖 **get_next_line**
-**Language:** C  
-A high-performance line reader for file descriptors. Mastered dynamic memory allocation and efficient buffering.
+### 🎾 **Transcendence**
+**Language:** JavaScript, Python, HTML/CSS  
+A full-stack web application featuring a real-time multiplayer Pong game with user authentication, tournament management, and live chat functionality.
 
 **Learning Highlights:**
-- Buffer management
-- Static variables & scope
-- Memory efficiency
-- Edge case handling
+- Full-stack web development
+- Real-time WebSocket communication
+- User authentication & authorization
+- Database design & management
+- Frontend/backend integration
 
 ---
 
@@ -88,6 +92,7 @@ A high-performance line reader for file descriptors. Mastered dynamic memory all
 
 - 🔥 Advanced compiler optimization techniques
 - 🐍 Python ecosystem (NumPy, algorithms)
+- 🤖 Machine Learning fundamentals & neural networks
 - 🏆 Competitive programming (LeetCode)
 - 📊 Advanced data structures & algorithms
 
@@ -95,17 +100,48 @@ A high-performance line reader for file descriptors. Mastered dynamic memory all
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xEr3b0s&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xEr3b0s&theme=tokyonight) ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEr3b0s&layout=compact&langs_count=8&theme=tokyonight)
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xEr3b0s&theme=tokyonight" alt="Languages by Repo" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEr3b0s&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=0" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💬 Let's Connect
 
-- 💼 **LinkedIn:**
-- ✉️ **Email:**
+- 💼 **LinkedIn:** [Add your profile]
+- ✉️ **Email:** [Add your email]
 - 🎓 **School:** 42 Paris
+
+---
+
+## 🎯 Open To
+
+- 🤝 Collaborating on **systems programming** projects
+- 🔗 Contributing to **compiler** or **OS** projects
+- 💡 Technical discussions about **low-level programming**
+- 📖 Mentoring or learning together
+
+---
+
+## ⭐ Fun Facts
+
+- ⛩️ Lover of elegant, minimalist code
+- 🖥️ Works across macOS and Windows (Fish shell advocate!)
+- 🔄 Currently juggling 42 projects + personal compiler work + Python bootcamp
+- 🎯 Goal: Master systems programming & build something impactful
 
 ---
 
