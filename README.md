@@ -2,7 +2,7 @@
 
 **Systems Engineer | Compiler Enthusiast | Machine Learning & IA Debutant | 42 School Student**
 
-⛩️ Building tools that make computers speak 💻
+⛩️ "A man does not have to be remembered to leave his mark upon the world." 💻
 
 ---
 
@@ -31,6 +31,7 @@ I'm a passionate developer with a deep interest in **low-level systems programmi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REACT](https://img.shields.io/badge/-REACT-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -76,7 +77,7 @@ A miniature Unix shell implementing core bash functionality. Deep dive into proc
 ---
 
 ### 🎾 **Transcendence**
-**Language:** JavaScript, Python, HTML/CSS  
+**Language:** React, Go, HTML/CSS  
 A full-stack web application featuring a real-time multiplayer Pong game with user authentication, tournament management, and live chat functionality.
 
 **Learning Highlights:**
@@ -121,8 +122,8 @@ A full-stack web application featuring a real-time multiplayer Pong game with us
 
 ## 💬 Let's Connect
 
-- 💼 **LinkedIn:** [Add your profile]
-- ✉️ **Email:** [Add your email]
+- 💼 **LinkedIn:**
+- ✉️ **Email:**
 - 🎓 **School:** 42 Paris
 
 ---
@@ -130,18 +131,8 @@ A full-stack web application featuring a real-time multiplayer Pong game with us
 ## 🎯 Open To
 
 - 🤝 Collaborating on **systems programming** projects
-- 🔗 Contributing to **compiler** or **OS** projects
 - 💡 Technical discussions about **low-level programming**
 - 📖 Mentoring or learning together
-
----
-
-## ⭐ Fun Facts
-
-- ⛩️ Lover of elegant, minimalist code
-- 🖥️ Works across macOS and Windows (Fish shell advocate!)
-- 🔄 Currently juggling 42 projects + personal compiler work + Python bootcamp
-- 🎯 Goal: Master systems programming & build something impactful
 
 ---
 
