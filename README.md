@@ -114,4 +114,4 @@ A full-stack web application featuring a real-time multiplayer Pong game with us
 
 **Star my repos if they help you! 🌟**
 
-*Made with ❤️ from Paris*
+*Made from my personal cave*
