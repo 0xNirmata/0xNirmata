@@ -52,30 +52,6 @@ Building a fully functional C compiler from scratch, implementing lexer, parser,
 
 ---
 
-### 🛡️ **ft_irc** 
-**Language:** C++  
-An RFC-compliant IRC (Internet Relay Chat) server implementation. Handles multi-client connections, channel management, and core IRC protocols.
-
-**Features:**
-- Client/server architecture
-- Channel & message routing
-- Built-in commands: JOIN, PART, PRIVMSG, NICK
-- Network protocol compliance
-
----
-
-### 🎮 **Minishell**
-**Language:** C  
-A miniature Unix shell implementing core bash functionality. Deep dive into process management, signal handling, and shell mechanics.
-
-**Implemented:**
-- Command parsing & execution
-- Process forking & piping
-- Built-in commands: `cd`, `echo`, `export`, etc.
-- Signal handling (SIGINT, SIGQUIT)
-
----
-
 ### 🎾 **Transcendence**
 **Language:** React, Go, HTML/CSS  
 A full-stack web application featuring a real-time multiplayer Pong game with user authentication, tournament management, and live chat functionality.
