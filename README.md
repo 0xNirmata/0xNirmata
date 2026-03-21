@@ -97,9 +97,7 @@ A high-performance line reader for file descriptors. Mastered dynamic memory all
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xEr3b0s&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xEr3b0s&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEr3b0s&layout=compact&langs_count=8&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xEr3b0s&theme=tokyonight) ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEr3b0s&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
