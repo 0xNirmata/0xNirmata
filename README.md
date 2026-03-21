@@ -1,68 +1,134 @@
-# Hi there, I'm 0xEr3b0s 👋
+# 👋 Hey, I'm 0xEr3b0s
 
-💻 I'm a software and cybersecurity enthusiast currently studying at **42**.  
+**Systems Engineer | Compiler Enthusiast | 42 School Student**
 
----
-
-# 🚀 Skills & Tools
-C | C++ | Python | Shell | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
+⛩️ Building tools that make computers speak 💻
 
 ---
 
-## 🌱 Currently Learning
-- Linux system administration
-- Advanced C
-- Python
+## 🎯 About Me
+
+I'm a passionate developer with a deep interest in **low-level systems programming** and **compiler design**. Currently studying at **42**, a peer-to-peer coding school that challenges you to build real things and learn by doing.
+
+- 🔧 Specializing in **systems programming** (C/C++) and **compiler construction**
+- 🚀 Building a **C compiler from scratch** using *Writing a C Compiler* as my guide
+- 🐍 Expanding into **Python** and **algorithms** (LeetCode grinding)
+- 🎓 **42 School** student passionate about computer science fundamentals
+- 🌍 Based in **France** | Open to **remote collaborations**
 
 ---
 
-## 💡 42 School Projects
+## 🛠️ Tech Stack
 
-🔹 **get_next_line**  
-Language: C  
-A function that reads a line from a file descriptor. I learned about dynamic memory allocation and buffer management for efficient reading.
+### Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-🔹 **Minishell**  
-Language: C  
-A miniature shell inspired by Bash. It handles command parsing, process management, and built-in commands like `cd`, `echo`, and `export`.
-
-🔹 **ft_irc**  
-Language: C++  
-An IRC server implementation following the RFC specifications. It manages client connections, channels, message routing, and supports essential IRC commands like JOIN, PART, PRIVMSG, and NICK. 
-
-🔹 **Exams**  
-Language: C/C++
-All exams from 42 school which are in C and C++.
+### Web & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 💡 Leetcode Projects
-Currently doing some algorithm projects on leetcode to train ( in java ).
+## 🚀 Featured Projects
 
-<h3> 🧰 Things I code with</h3>
-<p>
-  
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- </p>
- 
+### 🔨 **C Compiler** [⭐ Featured]
+**Language:** C++  
+Building a fully functional C compiler from scratch, implementing lexer, parser, semantic analysis, and code generation. This project combines theoretical compiler knowledge with practical systems programming.
+
+**Key Focus:**
+- Lexical analysis & tokenization
+- Recursive descent parsing
+- AST construction & traversal
+- x86-64 code generation
+- Unit testing per phase
+
+---
+
+### 🛡️ **ft_irc** 
+**Language:** C++  
+An RFC-compliant IRC (Internet Relay Chat) server implementation. Handles multi-client connections, channel management, and core IRC protocols.
+
+**Features:**
+- Client/server architecture
+- Channel & message routing
+- Built-in commands: JOIN, PART, PRIVMSG, NICK
+- Network protocol compliance
+
+---
+
+### 🎮 **Minishell**
+**Language:** C  
+A miniature Unix shell implementing core bash functionality. Deep dive into process management, signal handling, and shell mechanics.
+
+**Implemented:**
+- Command parsing & execution
+- Process forking & piping
+- Built-in commands: `cd`, `echo`, `export`, etc.
+- Signal handling (SIGINT, SIGQUIT)
+
+---
+
+### 📖 **get_next_line**
+**Language:** C  
+A high-performance line reader for file descriptors. Mastered dynamic memory allocation and efficient buffering.
+
+**Learning Highlights:**
+- Buffer management
+- Static variables & scope
+- Memory efficiency
+- Edge case handling
+
+---
+
+## 📚 Currently Learning
+
+- 🔥 Advanced compiler optimization techniques
+- 🐍 Python ecosystem (NumPy, algorithms)
+- 🏆 Competitive programming (LeetCode)
+- 📊 Advanced data structures & algorithms
+
 ---
 
 ## 📊 GitHub Stats
-[![0xEr3b0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xEr3b0s&show_icons=true&theme=tokyonight)](https://github.com/0xEr3b0s/github-readme-stats)
+
+![0xEr3b0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xEr3b0s&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
-## 📫 How to Reach Me
-[💼 LinkedIn](#) | ✉️ [Email](#) 
-🎓 **42 Student**  
-🌍 Based in France | Open to remote projects  
+## 💬 Let's Connect
+
+- 💼 **LinkedIn:** [Add your profile]
+- ✉️ **Email:** [Add your email]
+- 🎓 **School:** 42 Paris
+- 🌐 **Portfolio:** [Optional - add if you have one]
 
 ---
 
-⭐️ *From 0xEr3b0s*
+## 🎯 Open To
+
+- 🤝 Collaborating on **systems programming** projects
+- 🔗 Contributing to **compiler** or **OS** projects
+- 💡 Technical discussions about **low-level programming**
+- 📖 Mentoring or learning together
+
+---
+
+## ⭐ Fun Facts
+
+- ⛩️ Lover of elegant, minimalist code
+- 🖥️ Works across macOS and Windows (Fish shell advocate!)
+- 🔄 Currently juggling 42 projects + personal compiler work + Python bootcamp
+- 🎯 Goal: Master systems programming & build something impactful
+
+---
+
+**Star my repos if they help you! 🌟**
+
+*Made with ❤️ from Paris*
