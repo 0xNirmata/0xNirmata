@@ -98,8 +98,6 @@ A full-stack web application featuring a real-time multiplayer Pong game with us
 
 ## 💬 Let's Connect
 
-- 💼 **LinkedIn:**
-- ✉️ **Email:**
 - 🎓 **School:** 42 Paris
 
 ---
