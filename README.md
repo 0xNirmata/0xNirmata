@@ -2,7 +2,7 @@
 
 Systems and low-level programming student at **42 Paris**, specializing in cybersecurity (RNCP 7). I like understanding how things actually work underneath — compilers, shells, binaries, networks — and building the tools that come out of that curiosity.
 
-> ⛩️ *"A man does not have to be remembered to leave his mark upon the world."*
+> ⛩️ *"Preoccupied with a single tree, you'll miss the entire forest." — Takuan*
 
 ---
 
@@ -41,16 +41,6 @@ My algorithm and data-structure practice in Python — kept public as a running 
 **Languages:** C · C++ · Rust · Go · Python · Bash
 **Web:** JavaScript · React · HTML/CSS
 **Tools:** Git · Linux · GDB · Docker
-
----
-
-## GitHub
-
-<div align="center">
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEr3b0s&layout=compact&langs_count=8&theme=tokyonight)
-
-</div>
 
 ---
 
