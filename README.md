@@ -38,9 +38,7 @@ My algorithm and data-structure practice in Python — kept public as a running 
 
 ## Tech
 
-**Languages:** C · C++ · Rust · Go · Python · Bash
-**Web:** JavaScript · React · HTML/CSS
-**Tools:** Git · Linux · GDB · Docker
+![Top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=0xEr3b0s&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
