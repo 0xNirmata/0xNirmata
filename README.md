@@ -61,5 +61,5 @@
 
 <p align="center">
   🎓 42 Paris<br>
-  🌍 France — open to remote collaboration
+  🌍 France — open to remote collaboration — Dream to work in UK
 </p>
