@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  On the side, I'm slowly finding my way into machine learning and quantitative finance.
+  On the side, I'm slowly building redteam tools.
 </p>
 
 ---
