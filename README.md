@@ -16,7 +16,7 @@
 </td>
 <td align="center">
 
-<b>0xer3b0s</b>@<b>localhost</b><br>
+<b>sutekh</b>@<b>localhost</b><br>
 ──────────────────────────────<br>
 <b>Focus</b> : Systems &amp; Offensive Security<br>
 <b>Stack</b> : C · C++ · Rust · Python · Bash<br>
