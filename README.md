@@ -27,7 +27,7 @@
 <b>Projects</b> : Minishell · ft_ping · RainFall · IoT<br>
 <b>Quote</b> : <i>"Preoccupied with a single tree,<br>
 you'll miss the entire forest."</i> — Takuan<br>
-<b>Portfolio</b> : <a href="https://0xEr3b0s.github.io">0xer3b0s.github.io</a>
+<b>Portfolio</b> : <a href="https://0xEr3b0s.github.io">0xEr3b0s.github.io</a>
 
 </td>
 </tr>
