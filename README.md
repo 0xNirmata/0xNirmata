@@ -16,7 +16,7 @@
 </td>
 <td align="center">
 
-<b>sutekh</b>@<b>localhost</b><br>
+<b>0xEr3b0s</b>@<b>localhost</b><br>
 ──────────────────────────────<br>
 <b>Focus</b> : Systems &amp; Offensive Security<br>
 <b>Stack</b> : C · C++ · Rust · Python · Bash<br>
@@ -27,7 +27,7 @@
 <b>Projects</b> : Minishell · ft_ping · RainFall · IoT<br>
 <b>Quote</b> : <i>"Preoccupied with a single tree,<br>
 you'll miss the entire forest."</i> — Takuan<br>
-<b>Portfolio</b> : <a href="https://0xer3b0s.github.io">0xer3b0s.github.io</a>
+<b>Portfolio</b> : <a href="https://0xEr3b0s.github.io">0xer3b0s.github.io</a>
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ you'll miss the entire forest."</i> — Takuan<br>
 
 <p align="center">
   🌍 France · open to remote / UK ·
-  <a href="https://0xer3b0s.github.io/">Portfolio</a>
+  <a href="https://0xEr3b0s.github.io/">Portfolio</a>
 </p>
 
 </div>
