@@ -1,65 +1,94 @@
-<h1 align="center">Hi, I'm 0xEr3b0s 👋</h1>
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center">
+<pre>
+⠀⠀⠀⢀⣀⣀⣤⣤⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠰⠛⠋⠉⠀⠀⠀⠀⠉⠉⠛⠶⢤⣄⣀⠀⠀⠀⠀
+⠀⠀⠀⣠⣤⣶⣶⣶⡤⢤⣀⠀⠀⠀⠀⠉⠉⠉⠉⠀
+⠀⢀⡴⠃⠸⣿⣿⣿⡏⠀⣨⡿⠶⠦⠤⠤⠤⠤⣤⠀
+⠀⠉⠉⢻⣷⠾⣿⡛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢼⣿⠀⠈⠛⢶⣄⡀⠀⠀⠀⠀⠀⠀⠢⡰⠀
+⠀⠀⠀⠘⣿⠀⠀⠀⠀⠈⠙⠲⢤⣀⡀⠀⠀⣀⠜⠀
+⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠀⠀⠀
+</pre>
+</td>
+<td align="center">
+
+<b>0xer3b0s</b>@<b>localhost</b><br>
+──────────────────────────────<br>
+<b>Focus</b> : Systems &amp; Offensive Security<br>
+<b>Stack</b> : C · C++ · Rust · Python · Bash<br>
+<b>Status</b> : Looking for a cybersecurity internship<br>
+(red team focus · open to blue team)<br>
+<b>Now</b> : Advanced binary exploitation + Rust tooling<br>
+<b>Tools</b> : GDB · Docker · CMake · K3s · Vagrant<br>
+<b>Projects</b> : Minishell · ft_ping · RainFall · IoT<br>
+<b>Quote</b> : <i>"Preoccupied with a single tree,<br>
+you'll miss the entire forest."</i> — Takuan<br>
+<b>Portfolio</b> : <a href="https://0xer3b0s.github.io">0xer3b0s.github.io</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">Featured projects</h3>
 
 <p align="center">
-  Systems and low-level programming student at <strong>42 Paris</strong>, specializing in cybersecurity (RNCP 7). I like understanding how things actually work underneath — compilers, shells, binaries, networks — and building the tools that come out of that curiosity.
+  🛡️ <b><a href="https://github.com/0xEr3b0s/cybersecurity-piscine">cybersecurity-piscine</a></b><br>
+  Offensive modules: ARP-poisoning MITM, TOTP, Tor hidden service,<br>
+  web forensics, ransomware sim, SQLi scanner (Rust).
 </p>
 
 <p align="center">
-  ⛩️ <em>"Preoccupied with a single tree, you'll miss the entire forest." — Takuan</em>
+  🔓 <b><a href="https://github.com/0xEr3b0s/RainFall">RainFall</a></b><br>
+  Binary-exploitation wargame: buffer overflows, format strings,<br>
+  ret2libc, GOT/PLT, C++ objects… Full write-ups.
+</p>
+
+<p align="center">
+  🛰️ <b><a href="https://github.com/0xEr3b0s/ft_ping">ft_ping</a></b><br>
+  From-scratch <code>ping</code> in C with raw sockets &amp; ICMP.<br>
+  Matches inetutils behaviour.
+</p>
+
+<p align="center">
+  ☸️ <b><a href="https://github.com/0xEr3b0s/IoT">Inception of Things</a></b><br>
+  K3s clusters (Vagrant), multi-app + Ingress, k3d, GitLab + Argo CD GitOps.
+</p>
+
+<p align="center">
+  🐚 <b><a href="https://github.com/0xEr3b0s/Minishell">Minishell</a></b><br>
+  Unix shell in C: parsing, pipes, redirections, builtins, signals.
+</p>
+
+<p align="center">
+  🔨 <b><a href="https://github.com/0xEr3b0s/c_compiler">c_compiler</a></b> <i>(in progress)</i><br>
+  C compiler in C++ — lexer → parser → AST → x86-64 codegen (Nora Sandler).
 </p>
 
 ---
 
-<h2 align="center">What I'm into</h2>
-
 <p align="center">
-  <strong>Low-level &amp; systems</strong> — C, C++, Rust. Compilers, shells, and anything close to the metal.<br>
-  <strong>Cybersecurity &amp; reverse engineering</strong> — working through 42's security track and building small RE tooling on the side.<br>
-  <strong>Embedded</strong> — a personal drone-swarm project running Rust/C++ firmware on ESP32 over an ESP-NOW mesh.<br>
-  <strong>Algorithms</strong> — regular practice on Codewars / LeetCode to keep the fundamentals sharp.
+  <b>Stack</b> : C · C++ · Rust · Python
 </p>
 
 <p align="center">
-  On the side, I'm slowly building redteam tools.
+  <b>Tools</b> : GDB · Docker · CMake · Git · Vagrant · K3s
 </p>
 
----
-
-<h2 align="center">Projects</h2>
-
-<h3 align="center">🔨 <a href="https://github.com/0xEr3b0s/c_compiler">c_compiler</a> <em>(in progress)</em></h3>
 <p align="center">
-  A C compiler written in C++, following <em>Writing a C Compiler</em> (Nora Sandler). Built phase by phase — lexer, recursive-descent parser, AST, semantic analysis, x86-64 codegen — with tests for each stage before moving on. Still a work in progress; the goal is to genuinely understand every layer rather than ship fast.
-</p>
-
-<h3 align="center">🛡️ <a href="https://github.com/0xEr3b0s/cybersecurity-piscine">cybersecurity-piscine</a></h3>
-<p align="center">
-  My work through 42's cybersecurity track — reverse engineering, binary exploitation and security tooling in C and Python.
-</p>
-
-<h3 align="center">🐚 <a href="https://github.com/0xEr3b0s/Minishell">Minishell</a></h3>
-<p align="center">
-  A minimal Unix shell in C: parsing, pipes, redirections, environment handling and built-ins. A deep dive into how a shell really talks to the system.
-</p>
-
-<h3 align="center">🧠 <a href="https://github.com/0xEr3b0s/codewars-problemes">codewars-problemes</a></h3>
-<p align="center">
-  My algorithm and data-structure practice in Python — kept public as a running log of the grind.
+  <b>Focus</b> : Offensive Security · Binary Exploitation · Low-level
 </p>
 
 ---
 
-<h2 align="center">Tech</h2>
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xEr3b0s&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
+  🌍 France · open to remote / UK ·
+  <a href="https://0xer3b0s.github.io/">Portfolio</a>
 </p>
 
----
-
-<h2 align="center">Reach me</h2>
-
-<p align="center">
-  🎓 42 Paris<br>
-  🌍 France — open to remote collaboration — Dream to work in UK
-</p>
+</div>
