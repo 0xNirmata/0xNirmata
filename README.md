@@ -1,9 +1,8 @@
-<div align="center">
-
-<table align="center">
+<table>
 <tr>
-<td align="center">
-<pre>
+<td valign="top">
+
+```
 ⠀⠀⠀⢀⣀⣀⣤⣤⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠰⠛⠋⠉⠀⠀⠀⠀⠉⠉⠛⠶⢤⣄⣀⠀⠀⠀⠀
 ⠀⠀⠀⣠⣤⣶⣶⣶⡤⢤⣀⠀⠀⠀⠀⠉⠉⠉⠉⠀
@@ -12,29 +11,29 @@
 ⠀⠀⠀⢼⣿⠀⠈⠛⢶⣄⡀⠀⠀⠀⠀⠀⠀⠢⡰⠀
 ⠀⠀⠀⠘⣿⠀⠀⠀⠀⠈⠙⠲⢤⣀⡀⠀⠀⣀⠜⠀
 ⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠀⠀⠀
-</pre>
-</td>
-<td align="center">
+```
 
-<b>0xEr3b0s</b>@<b>localhost</b><br>
-──────────────────────────────<br>
-<b>Focus</b> : Systems &amp; Offensive Security<br>
-<b>Stack</b> : C · C++ · Rust · Python · Bash<br>
-<b>Status</b> : Looking for a cybersecurity internship<br>
-(red team focus · open to blue team)<br>
-<b>Now</b> : Advanced binary exploitation + Rust tooling<br>
-<b>Tools</b> : GDB · Docker · CMake · K3s · Vagrant<br>
-<b>Projects</b> : Minishell · ft_ping · RainFall · IoT<br>
-<b><a href="https://0xEr3b0s.github.io">portfolio</a></br>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top">
+
+```ini
+[ 0xEr3b0s @ localhost ]
+focus     = Systems & Offensive Security
+stack     = C · C++ · Rust · Python · Bash
+tools     = GDB · Docker · CMake · K3s · Vagrant
+now       = binary exploitation · Rust tooling
+status    = seeking a cybersecurity internship
+role      = red team · open to blue team
+location  = France · remote / UK
+```
 
 </td>
 </tr>
 </table>
 
----
-
 <p align="center">
-  🌍 France · open to remote / UK
+  <a href="https://0xEr3b0s.github.io">
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-0xEr3b0s.github.io-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26">
+  </a>
 </p>
-
-</div>
