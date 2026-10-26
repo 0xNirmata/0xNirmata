@@ -78,7 +78,7 @@ def build(name):
     for i,c in enumerate(t["dots"]):
         s.append(f'<circle cx="{22+i*20}" cy="17.5" r="5.5" fill="{c}"/>')
     s.append(f'<text x="{W/2}" y="22" font-size="12" fill="{t["dim"]}" '
-             f'text-anchor="middle">0xEr3b0s@localhost: ~</text>')
+             f'text-anchor="middle">0xNirmata@localhost: ~</text>')
     s.append(f'<text x="28" y="66" font-size="14"><tspan fill="{t["accent"]}">$</tspan>'
              f'<tspan fill="{t["fg"]}"> neofetch</tspan></text>')
 
@@ -98,7 +98,7 @@ def build(name):
 
     y = FIRST
     s.append(f'<text x="{TX}" y="{y}" font-size="14" font-weight="bold">'
-             f'<tspan fill="{t["accent"]}">0xEr3b0s</tspan><tspan fill="{t["dim"]}">@</tspan>'
+             f'<tspan fill="{t["accent"]}">0xNirmata</tspan><tspan fill="{t["dim"]}">@</tspan>'
              f'<tspan fill="{t["accent"]}">localhost</tspan></text>')
     y += LH
     s.append(f'<text x="{TX}" y="{y}" font-size="14" fill="{t["dim"]}">'
