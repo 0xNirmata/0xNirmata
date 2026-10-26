@@ -84,7 +84,7 @@
 <circle cx="22" cy="17.5" r="5.5" fill="#2c6b45"/>
 <circle cx="42" cy="17.5" r="5.5" fill="#3aa864"/>
 <circle cx="62" cy="17.5" r="5.5" fill="#9dffbe"/>
-<text x="360.0" y="22" font-size="12" fill="#2c6b45" text-anchor="middle">0xEr3b0s@localhost: ~</text>
+<text x="360.0" y="22" font-size="12" fill="#2c6b45" text-anchor="middle">0xNirmata@localhost: ~</text>
 <text x="28" y="66" font-size="14"><tspan fill="#9dffbe">$</tspan><tspan fill="#6ee094"> neofetch</tspan></text>
 <g fill="#3fd472" opacity="0.18">
 <circle cx="76.4" cy="121.6" r="4"/>
@@ -630,7 +630,7 @@
 <circle cx="206.4" cy="251.6" r="2"/>
 <circle cx="211.6" cy="251.6" r="2"/>
 </g>
-<text x="300" y="104" font-size="14" font-weight="bold"><tspan fill="#9dffbe">0xEr3b0s</tspan><tspan fill="#2c6b45">@</tspan><tspan fill="#9dffbe">localhost</tspan></text>
+<text x="300" y="104" font-size="14" font-weight="bold"><tspan fill="#9dffbe">0xNirmata</tspan><tspan fill="#2c6b45">@</tspan><tspan fill="#9dffbe">localhost</tspan></text>
 <text x="300" y="126" font-size="14" fill="#2c6b45">──────────────────────────────</text>
 <text x="300" y="148" font-size="14" fill="#3aa864">focus</text>
 <text x="400" y="148" font-size="14" fill="#6ee094">Systems &amp; Offensive Security</text>
